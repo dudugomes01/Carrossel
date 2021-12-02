@@ -1,0 +1,87 @@
+.sec_campanhas {
+    margin: 0px 20px;
+    border-radius: 5px;
+}
+
+.carousel-control-prev {
+    background-color: rgba(0, 0, 0, 0.466);
+    border-radius: 3px;
+    width: 50px;
+}
+.carousel-control-next {
+    background-color: rgba(0, 0, 0, 0.466);
+    border-radius: 3px;
+    width: 50px;
+}
+
+.carousel-indicators li {
+    border-radius: 70%;
+    height: 12px;
+    width: 12px;
+    border-color: #2176FF;
+    border-width: 2px;
+    border-style: solid;
+    color:#6c9eee;
+}
+
+.botoes {
+    text-align: center;
+}
+
+.addImg {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #5a8bdabb;
+    border-radius: 5px;
+    color: rgb(15, 15, 15);
+    font-weight: 500;
+}
+
+.addImg:hover {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: primary;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.excluirImg {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    background-color: #5a8bdabb;
+    border-radius: 5px;
+    color: rgb(15, 15, 15);
+    font-weight: 500;
+}
+
+.excluirImg:hover {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    background-color: primary;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.alterarImg {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    background-color: #5a8bdabb;
+    border-radius: 5px;
+    color: rgb(15, 15, 15);
+    font-weight: 500;
+}
+
+.alterarImg:hover {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    background-color: primary;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 500;
+}
